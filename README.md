@@ -35,4 +35,4 @@ We'll download our dataset from visualcrossing, an American-European agency.  Yo
 
 
 ## Credits
-Downloading Data set,source code writing,documentation - Mandaliya Kavya
+Downloading Data set,source code writing,documentation - Mandaliya Kavya,Divya,Nishant,Heril
