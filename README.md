@@ -32,7 +32,3 @@ We'll download our dataset from visualcrossing, an American-European agency.  Yo
 * Click on run query
 * Finally click on download button, the dataset would be downloaded on system
 * After donloading the data filter it and save the file in CSV formatt
-
-
-## Credits
-Downloading Data set,source code writing,documentation - Mandaliya Kavya,Divya,Nishant,Heril
